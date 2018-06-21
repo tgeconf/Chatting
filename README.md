@@ -1,1 +1,1 @@
-# Chatting
+This is an example of using Express and Socketio.js to build a SPA.
